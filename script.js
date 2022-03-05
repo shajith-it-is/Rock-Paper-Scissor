@@ -4,7 +4,7 @@ const result = bodyElement.querySelector('#result');
 const comp = bodyElement.querySelector('#comp');
 const user = bodyElement.querySelector('#user');
 
-const RPC = {1: 'rock',2: 'paper',3: 'scissor'};
+const RPC = {1: 'rock',2: 'paper',3: 'scissors'};
 
 let userChoice;
 let compChoice;
